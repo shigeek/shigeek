@@ -1,4 +1,4 @@
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=holasoynaoki&count_private=true&show_icons=true&theme=tokyonight)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=holasoynaoki&count_private=true&show_icons=true&theme=dark)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=holasoynaoki&theme=tokyonight)
 
