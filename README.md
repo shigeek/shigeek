@@ -1,5 +1,7 @@
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=zizi4n5&count_private=true&show_icons=true)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=holasoynaoki&count_private=true&show_icons=true)
 
-![Top Languages by commit](https://github.com/vn7n24fzkq/github-profile-summary-cards-example)
+![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=holasoynaoki&repo=homebridge-switchbot-for-mac)
 
-![Top Languages Card](https://github.com/vn7n24fzkq/github-profile-summary-cards-example)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=holasoynaoki)
+
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=holasoynaoki&layout=compact)
